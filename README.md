@@ -71,3 +71,11 @@ Using Hotjar to study the behaviour of users on the website would have been best
 * Make the copy of Landing Page B more persuasive and the CTA clearer. Then carryout an A/B test with the first version of Landing Page B for seven days.
 
 **What Will Happen if Action is Delayed**
+Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
+
+![](Charts/Months%20by%20Conversion%20Rate.png)
+
+The global landing page leads to other subsequent landing pages. The high bounce rate of the global landing page is an indication that many users are not making it to these subsequent pages. 
+
+It's best to effect the recommendations to improve the global landing page while there's still time. At least, for the sake of Roland's health. Just like they say, a stitch in time saves nine.
+
