@@ -22,8 +22,20 @@ Since the bounce rate of the website is good enough, the next question to ask is
 ![](Charts/Overall%20Percentage%20Existing%20Users.png)
 
 So far, the bounce rate and percentage returning users have good values, but are these users staying long enough to purchase their product? The answer is Yes. The time users are spending on the website is even higher than the target of 3minutes. 
+![](Charts/Overall%20Session%20Duration.png)
 
+Staying for a long time on this website could either be for good or for bad. The truth is, knowing if it's for good or for bad can be determined by studying the behavior of users on the website through a recommended tool, Hotjar. If it's for good, then the content is engaging and if it's bad, it means the users can't find what they are looking for on the website.
 
-Staying for a long time on this website could either be for good or for bad. The truth is, knowing if it's for good or for bad can be determined by studying the behavior of users on the website through a recommended tool, hotjar. If it's for good, then the content is engaging and if it's bad, it means the users can't find what they are looking for on the website.
+Hotjar is not the only way to find this out though. Another way is by knowing the conversion rate. A look at the conversion rate shows that it's way below the target. The target is 1.53% and the actual rate is just 0.22%.
+![](Charts/Overall%20Conversion%20Rate.png)
 
-Hotjar is not the only way to find this out though. Another way is by knowing the 
+This could be a sign that these users are not finding what they are looking for on this website. But we shouldn't jump into conclusions yet because this is a website that sells vacations. Users might actually be wasting time on the website because they are reading details of the vacations. 
+
+If this is true, then they might not be puchasing the vacations because the copy isn't persuasive or the call to action isn't clear enough. 
+
+Now, all the metrics seems encouraging except the conversion rate that is very low. It's either few of the landing pages are performing very terribly or most of the landing pages are performing badly. The sole aim of my analysis though is to pinpoint just one that is performing very badly and start work on it. 
+
+To do this, we should consider the time, money and efforts that will be invested in making these improvements. Hence, the need to only focus on landing pages that have higher traffic. The overall visits on the website is 8228 on the average. Focusing on the 47 landing pages that have visits greater than 8228 will save a lot of time and money.
+![](Charts/Landing%20Page%20Count%20by%20Website%20Visits.png)
+
+Out of these 47 landing pages, five landing pages that have the lowest conversion rate, lowest percentage returning users, and highest bounce rate were evaluated, and a pattern was noticed. Three landing pages repetitively appeared in at least two of these three poor metrics. 
