@@ -15,4 +15,10 @@ Before I move forward, to find out about how my thought process in solving this 
 ## **All things but one, are on track**
 Marketing is required to drive traffic to an e-commerce website but if the website isn't tailored to the needs of users, this traffic no matt how high will be a waste. 
 
-The journey of a potential customer or user starts from this traffic. When this user gets on the website, the appealing visuals, high loading speed, and organized layout could make the user stay longer. If he doesn't leave because any of these is out of place, then the only thing that could make him leave the site is a complicated or non-intuitive navigation. Fortunately, this website has minimal bounce rate and even falls within the range of the e-commerce acceptable standard of 20% - 45%.
+The journey of a potential customer or user starts from this traffic. When this user gets on the website, the appealing visuals, high loading speed, and organized layout could make the user stay longer. If he doesn't leave because any of these is out of place, then the only thing that could make him leave the site is a complicated or non-intuitive navigation. Fortunately, this website has minimal bounce rate and even falls within the range of the e-commerce acceptable standard of 20% - 45%. It surpassed the 25% target of the company by 1%.
+![](Charts/Overall%20Bounce%20Rate.png)
+
+Since the bounce rate of the website is good enough, the next question to ask is, do these users come back to these website for more? Answering this is more on the marketing side though where the effectiveness of their re-targeting strategy is evaluated. But the website user experience is still important in the aspect of new and engaging content, and quality images.
+
+
+So far the bounce rate of the website is good enough, the next question is, do these users stay long enough on this website to actually purchase their product? Staying for a long time on this website for a long time could either be for good or for bad. The truth is, knowing if it's for good or for bad can be determined by studying the behavior of users on the website through a recommended tool hotjar. If it's for good, then
