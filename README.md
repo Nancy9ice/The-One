@@ -39,3 +39,4 @@ To do this, we should consider the time, money and efforts that will be invested
 ![](Charts/Landing%20Page%20Count%20by%20Website%20Visits.png)
 
 Out of these 47 landing pages, five landing pages that have the lowest conversion rate, lowest percentage returning users, and highest bounce rate were evaluated, and a pattern was noticed. Three landing pages repetitively appeared in at least two of these three poor metrics. 
+![](Charts/Least%20Five%20Landing%20Pages.png)
