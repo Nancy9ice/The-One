@@ -58,7 +58,9 @@ The overall visits on the website is 8228 on the average. Focusing on the 47 lan
 
 ![](Charts/Landing%20Page%20Count%20by%20Website%20Visits.png)
 
-Out of these 47 landing pages, five landing pages that have the lowest conversion rates, lowest percentage returning users, and highest bounce rates were evaluated, and a pattern was noticed. Three landing pages repetitively appeared in at least two of these three poor metrics. The landing pages were the global, region1, and country12 pages. 
+Out of these 47 landing pages, five landing pages that have the lowest conversion rates, lowest percentage returning users, and highest bounce rates were evaluated, and a pattern was noticed. 
+
+Three landing pages repetitively appeared in at least two of these three poor metrics. The landing pages were the global, region1, and country12 pages. 
 
 ![](Charts/Least%20Five%20Landing%20Pages.png)
 
