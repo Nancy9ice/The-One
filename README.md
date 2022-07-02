@@ -10,7 +10,7 @@ This website has several webpages where sales of different vacations are carried
 
 "Please do your best! The health of our CEO depends on the outcome of your analysis." Those words rang in my head as I collected the dataset containing the performance of their website from them. 
 
-Before I move forward, click this LINK to get enlightened about my thought process in working on this project.
+Before I move forward, click this ![LINK](https://nancyamandi.hashnode.dev/the-one-my-thought-process) to get enlightened about my thought process in working on this project.
 
 ## **All Metrics but one, are in good shape**
 Marketing is required to drive traffic to an e-commerce website but if the website isn't tailored to the needs of users, this traffic (no matter how high it is) will be a waste. 
@@ -79,3 +79,4 @@ The global landing page leads to other subsequent landing pages. The high bounce
 
 It's best to effect the recommendations to improve the global landing page while there's still time. At least, for the sake of Roland's health. Just like they say, a stitch in time saves nine.
 
+Click this ![LINK](https://nancyamandi.hashnode.dev/the-one-my-thought-process) to see my thought process in arriving at these insights
