@@ -77,7 +77,7 @@ Just like as it has been said before, the Global landing page is among the five 
 
 Using Hotjar to study the behaviour of users on the website would have been best to make conclusions on the causes. 
 
-However, Hotjar is not integrated in the website, so experiments will be carried out to know which improvements are most effective. The results of the effectiveness will reveal the actual causes of these poor performance.
+However, Hotjar is not integrated in the website, so experiments will be carried out to know which improvements are most effective. The results of the effectiveness will reveal the actual causes of these poor performances.
 
 ## **What Should be Done**
 * First of all, integrate Hotjar into the website.
