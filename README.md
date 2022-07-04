@@ -10,7 +10,7 @@ ___
 * [Three Landing Pages have Recurring Poor Metrics](#ThreeLandingPageshaveRecurringPoorMetrics)
 * [Everything is Wrong with the Global Landing Page](#EverythingisWrongwiththeGlobalLandingPage)
 * [What Should be Done](#WhatShouldbeDone)
-* [What Will Happen if Action is Delayed**](#WhatWillHappenifActionisDelayed)
+* [What Will Happen if Action is Delayed](#WhatWillHappenifActionisDelayed)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -107,7 +107,7 @@ However, Hotjar is not integrated in the website, so experiments will be carried
 * Choose the one with the higher conversion rate. Call this Landing Page B. Then get ready for another A/B test.
 * Make the copy of Landing Page B more persuasive and the CTA clearer. Then carryout an A/B test with the first version of Landing Page B for seven days.
 
-##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed**
+##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed
 Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
 
 ![](Charts/Months%20by%20Conversion%20Rate.png)
