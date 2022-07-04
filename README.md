@@ -1,7 +1,26 @@
 # The One
 _The dataset of this project was analyzed exclusively with Microsoft Excel._
+___
 
-## **Problem Statement**
+# Table of Content
+
+<!-- vscode-markdown-toc -->
+* [Problem Statement](#ProblemStatement)
+* [ All Metrics but one, are in good shape](#AllMetricsbutoneareingoodshape)
+* [Three Landing Pages have Recurring Poor Metrics](#ThreeLandingPageshaveRecurringPoorMetrics)
+* [Everything is Wrong with the Global Landing Page](#EverythingisWrongwiththeGlobalLandingPage)
+* [What Should be Done](#WhatShouldbeDone)
+* [What Will Happen if Action is Delayed**](#WhatWillHappenifActionisDelayed)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+
+##  <a name='ProblemStatement'></a>Problem Statement
 Roland owns an e-commerce company that sells vacations online via their website. Sales are going down and Roland isn't finding it funny. It's affecting his health too. He thinks something is wrong with the website and he has told the management to figure out what is wrong. 
 
 But...
@@ -14,7 +33,7 @@ It will cost so much money. So management wants to know that **one** webpage tha
 
 Before I move forward, click this [LINK](https://amandinancy16.medium.com/the-one-my-thought-process-9787c5d45054) to get enlightened about my thought process in working on this project.
 
-## **All Metrics but one, are in good shape**
+##  <a name='AllMetricsbutoneareingoodshape'></a> All Metrics but one, are in good shape
 Marketing is required to drive traffic to an e-commerce website but if the website isn't tailored to the needs of users, this traffic (no matter how high it is) will be a waste. 
 
 The journey of a potential customer or user starts from this traffic. When this user gets on the website, the appealing visuals, high loading speed, and organized layout could make the user stay longer and move past the first screen. 
@@ -47,7 +66,7 @@ This could be a sign that these users are not finding what they are looking for 
 
 If this is true, then they might not be puchasing the vacations because the copy isn't persuasive or the call to action isn't clear enough. 
 
-## **Three Landing Pages have Recurring Poor Metrics**
+##  <a name='ThreeLandingPageshaveRecurringPoorMetrics'></a>Three Landing Pages have Recurring Poor Metrics
 Now, all the metrics seems encouraging except the conversion rate that is very low. It's either few of the landing pages are performing very terribly or most of the landing pages are performing badly. 
 
 The sole aim of my analysis though is to pinpoint just one that is performing very badly so it can be improved as soon as possible.
@@ -72,14 +91,14 @@ A close look at the conversion rate overtime shows that the other two actually h
 
 **Global landing page is the one**
 
-## **Everything is Wrong with the Global Landing Page**
+##  <a name='EverythingisWrongwiththeGlobalLandingPage'></a>Everything is Wrong with the Global Landing Page
 Just like as it has been said before, the Global landing page is among the five landing pages with the least bounce rate, lowest conversion rate to the extent of reaching zero, and the landing page with the lowest number of returning users. 
 
 Using Hotjar to study the behaviour of users on the website would have been best to make conclusions on the causes. 
 
 However, Hotjar is not integrated in the website, so experiments will be carried out to know which improvements are most effective. The results of the effectiveness will reveal the actual causes of these poor performances.
 
-## **What Should be Done**
+##  <a name='WhatShouldbeDone'></a>What Should be Done
 * First of all, integrate Hotjar into the website.
 * Get ready for an A/B test.
 * Change the visuals of the global landing page and carry out an A/B test with the old version for seven days.
@@ -88,7 +107,7 @@ However, Hotjar is not integrated in the website, so experiments will be carried
 * Choose the one with the higher conversion rate. Call this Landing Page B. Then get ready for another A/B test.
 * Make the copy of Landing Page B more persuasive and the CTA clearer. Then carryout an A/B test with the first version of Landing Page B for seven days.
 
-**What Will Happen if Action is Delayed**
+##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed**
 Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
 
 ![](Charts/Months%20by%20Conversion%20Rate.png)
